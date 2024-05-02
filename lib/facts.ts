@@ -1,0 +1,16 @@
+export const facts = [
+  "Java is not the same as JavaScript.",
+  "Java is not the same as JavaScript.",
+  "Python is known for its readability and ease of use.",
+  "The first computer program was written by Ada Lovelace.",
+  "CSS stands for Cascading Style Sheets.",
+  "Linux is an open-source operating system.",
+  "It’s all 0’s and 1’s",
+  "The world’s first computer programmer was a renowned female mathematician",
+  "NASA’s reusable space shuttle in the 1970s had less code than our phones today.",
+  "There are around 700 different programming languages, with more on the way.",
+  "C programming language has a predecessor known as “B,” which was conceived and written by Ken Thompson in 1969",
+  "A program is a text file produced in a specific programming language",
+  "In the Java programming language, the term “final” contains numerous meanings.",
+  "Fortran (FORmula TRANslation) was the first coding language created by John Backus and his team at IBM in the 1950s.",
+];
